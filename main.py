@@ -1,4 +1,4 @@
-# Write the bounty entry to the configured output directory.
+# Save the joke to the requested output directory.
 import os
 from pathlib import Path
 
